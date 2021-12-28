@@ -52,4 +52,3 @@ module('Acceptance | super rentals', function (hooks) {
     assert.equal(currentURL(), '/');
   });
 });
-
